@@ -26,7 +26,8 @@ The data for this report includes company sales data, and operational KPIs colle
 * Gender vise sales: Insights into customer Gender and sales over the year.
 * Order Status: Visuals showing KPIs like Refund, Return, and Cancelled.
 
-### Visualizations
+### Visualizations (using pivot Table)
+
 
 * Combo
 * Slicer
